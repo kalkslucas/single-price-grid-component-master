@@ -1,0 +1,48 @@
+body {
+    background-color: hsl(204, 43%, 93%);
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+}
+
+.pagina {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 600px;
+}
+
+.texto-pequeno {
+    font-size: 14px;
+    color: hsl(204, 43%, 93%);
+}
+
+.margin {
+    margin-top: 35px;
+}
+
+.quadro1 {
+    border-radius: 15px 15px 0 0;
+    color: hsl(218, 22%, 67%);
+}
+
+.quadro1 h3 {
+    color: hsl(179, 62%, 43%);
+}
+
+.quadro1 h4 {
+    color: hsl(71, 73%, 54%);;
+}
+
+.quadro2 {
+    background-color: hsl(179, 62%, 43%);
+    border-radius: 0 0 0 15px;
+    color: white;
+}
+
+.quadro3 {
+    background-color: hsl(179, 70%, 46%);
+    border-radius: 0 0 15px 0;
+    color: white;
+}
